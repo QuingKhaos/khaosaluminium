@@ -1,10 +1,12 @@
 mod_info:
   title: |
-    ###TITLE###
+    Aluminium Revamped
   summary: |
-    ###DESC###
+    Adds aluminium, aluminium oxide, cables, alloys and more to the game.
   description_file: README.md
   attach_source_link: true
   license: default_gnugplv3
-  category: internal
-  tags: []
+  category: content
+  tags:
+    - manufacturing
+    - mining
