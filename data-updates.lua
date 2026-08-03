@@ -1,6 +1,8 @@
 local khaoslib_entity = require('__khaoslib__.prototypes.entity')
 local resource_autoplace = require('__core__.lualib.resource-autoplace')
 
+require("__khaosaluminium__.prototypes.map-gen-preset-updates")
+
 khaoslib_entity:load("resource", "copper-ore")
   :unset("autoplace")
   :set {
