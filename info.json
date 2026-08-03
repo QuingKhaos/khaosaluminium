@@ -10,9 +10,27 @@
     "base >= 2.1.11",
 
     "khaoslib >= 2.2.0",
+    "khaosfoundry >= 0.1.0",
+    "? khaoscarbon >= 0.1.0",
+    "? khaossilicon >= 0.1.0",
+    "? khaostin >= 0.1.0",
+    "? khaostitanium >= 0.1.0",
+    "? khaosszirconium >= 0.1.0",
 
     "! bzaluminum",
-    "! bzaluminum2"
+    "! bzaluminum2",
+    "! bzcarbon",
+    "! bzcarbon2",
+    "! bzfoundry",
+    "! bzfoundry2",
+    "! bzsilicon",
+    "! bzsilicon2",
+    "! bztin",
+    "! bztin2",
+    "! bztitanium",
+    "! bztitanium2",
+    "! bzzirconium",
+    "! bzzirconium2"
   ],
   "package": {
     "ignore": [

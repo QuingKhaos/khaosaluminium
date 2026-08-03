@@ -24,7 +24,7 @@ The following mods have their recipes changed:
 
 t.b.d.
 
-ᵃ: As of 2026-08-02 this mod is not yet available for Factorio 2.1. The compatibility layer for this mod is still included, so if the mod is updated for Factorio 2.1, the compatibility will be applied automatically.
+ᵃ: As of 2026-08-03 this mod is not yet available for Factorio 2.1. The compatibility layer for this mod is still included, so if the mod is updated for Factorio 2.1, the compatibility will be applied automatically.
 
 ## Credits
 
