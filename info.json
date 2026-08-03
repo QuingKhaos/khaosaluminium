@@ -4,10 +4,11 @@
   "description": "Adds aluminium, aluminium oxide, cables, alloys and more to the game.",
   "author": "QuingKhaos",
   "homepage": "https://discord.gg/SYmkaDjFCt",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "factorio_version": "2.1",
   "dependencies": [
     "base >= 2.1.11",
+    "! space-age",
 
     "khaoslib >= 2.2.0",
     "khaosfoundry >= 0.1.0",
