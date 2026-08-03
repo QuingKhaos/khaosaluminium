@@ -4,7 +4,7 @@ khaoslib_recipe:load {
   type = "recipe",
   name = "aluminium-cable",
   subgroup = "cable",
-  order = "a[basic-intermediates]-b[aluminium-cable]",
+  order = "a[basic-intermediates]-ba[aluminium-cable]",
   enabled = true,
   auto_recycle = false,
   allow_productivity = true,
