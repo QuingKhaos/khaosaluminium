@@ -12,6 +12,7 @@
     "khaoslib >= 2.2.0",
     "khaosfoundry >= 0.1.0",
     "? khaossilicon >= 0.1.0",
+    "? khaostitanium >= 0.1.0",
     "? khaosszirconium >= 0.1.0",
 
     "! bzaluminum",
@@ -20,6 +21,8 @@
     "! bzfoundry2",
     "! bzsilicon",
     "! bzsilicon2",
+    "! bztitanium",
+    "! bztitanium2",
     "! bzzirconium",
     "! bzzirconium2"
   ],
