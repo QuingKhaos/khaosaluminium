@@ -10,9 +10,12 @@
     "base >= 2.1.11",
 
     "khaoslib >= 2.2.0",
+    "? khaossilicon >= 0.1.0",
 
     "! bzaluminum",
-    "! bzaluminum2"
+    "! bzaluminum2",
+    "! bzsilicon",
+    "! bzsilicon2"
   ],
   "package": {
     "ignore": [
