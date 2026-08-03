@@ -6,7 +6,6 @@ khaoslib_recipe:load {
   subgroup = "cable",
   order = "a[basic-intermediates]-bb[acsr-cable]",
   enabled = false,
-  auto_recycle = false,
   allow_productivity = true,
   energy_required = 0.5,
   main_product = "acsr-cable",

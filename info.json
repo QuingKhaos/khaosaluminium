@@ -11,11 +11,14 @@
 
     "khaoslib >= 2.2.0",
     "? khaossilicon >= 0.1.0",
+    "? khaosszirconium >= 0.1.0",
 
     "! bzaluminum",
     "! bzaluminum2",
     "! bzsilicon",
-    "! bzsilicon2"
+    "! bzsilicon2",
+    "! bzzirconium",
+    "! bzzirconium2"
   ],
   "package": {
     "ignore": [
