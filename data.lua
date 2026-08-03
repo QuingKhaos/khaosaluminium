@@ -26,3 +26,5 @@ require("__khaosaluminium__.prototypes.technology.copper-processing")
 require("__khaosaluminium__.prototypes.technology.reinforced-cable")
 require("__khaosaluminium__.prototypes.technology.basic-alloys")
 require("__khaosaluminium__.prototypes.technology.aerospace-alloys")
+
+require("__khaosaluminium__.prototypes.compat.base")
