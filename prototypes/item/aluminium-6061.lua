@@ -1,4 +1,3 @@
-
 local khaoslib_item = require("__khaoslib__.prototypes.item")
 
 khaoslib_item:load {

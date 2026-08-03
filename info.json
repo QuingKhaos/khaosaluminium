@@ -11,12 +11,15 @@
 
     "khaoslib >= 2.2.0",
     "khaosfoundry >= 0.1.0",
+    "? khaoscarbon >= 0.1.0",
     "? khaossilicon >= 0.1.0",
     "? khaostitanium >= 0.1.0",
     "? khaosszirconium >= 0.1.0",
 
     "! bzaluminum",
     "! bzaluminum2",
+    "! bzcarbon",
+    "! bzcarbon2",
     "! bzfoundry",
     "! bzfoundry2",
     "! bzsilicon",
